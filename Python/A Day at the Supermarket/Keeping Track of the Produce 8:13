@@ -13,6 +13,6 @@ stock = {
 }
 
 for item in prices:
-    print item
+    print items
     print "price: %s" % prices[item]
     print "stock: %s" % stock[item]
